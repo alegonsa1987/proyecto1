@@ -108,4 +108,62 @@
   108  cat > history.txt
   109  cat  history.txt
   110  history
-proyecto1
+  111  cat >>history.txt
+  112  cat history.txt
+  113  tree
+  114  sudo rm history.txt
+  115  cd history/
+  116  cat >> history.txt
+  117  cd
+  118  tree
+  119  sudo rm proyecto1
+  120  tree
+  121  cat >>history.txt
+  122  cat history.txt
+  123  tree
+  124  mv /home/history.txt /home/history
+  125  tree
+  126  sudo echo "proyecto1" >> history.txt
+  127  git init
+  128  git add history.txt
+  129  git commit -m "proyecto1"
+  130  git remote add origin https://github.com/alegonsa1987/proyecto1.git
+  131  git push -u origin master
+  132  git remote add origin1 https://github.com/alegonsa1987/proyecto1.git
+  133  git push -u origin1 master
+  134  dir
+  135  tree
+  136  history
+  137  tree
+  138  history
+  139  sudo apt-get install mysql-server mysql-client apache2 php5 php5-mysql php5-curl php5-gd php5-intl php-pear php5-imagick php5-imap php5-mcrypt php5-memcache php5-ming php5-ps php5-pspell php5-recode php5-snmp php5-sqlite php5-tidy php5-xmlrpc php5-xsl
+  140  sudo service mysql start
+  141  mysql -u root -p
+  142  cd /tmp/ // wget http://ftp.drupal.org/files/projects/drupal-7.30.zip
+  143  unzip drupal.zip
+  144  cd
+  145  sudo apt-get install unzip
+  146  unzip drupal*.zip
+  147  unzip drupal-7.43.tar
+  148  unzip drupal-7.43.tar.zip
+  149  cd
+  150  cd /tmp/ // wget http://ftp.drupal.org/files/projects/drupal-7.43.tar
+  151  unzip drupal-7.43.tar
+  152  unzip drupal-7.43.tar.gz
+  153  unzip drupal-7.43.zip
+  154  cd
+  155  unzip drupal-7.43.zip
+  156  cd /tmp/ // wget http://ftp.drupal.org/files/projects/drupal-7.43.tar
+  157  unzip drupal-7.43.zip
+  158  unzip drupal-7.43.tar.gz
+  159  unzip drupal-7.43.tar
+  160  cd
+  161  sudo apt-get update
+  162  sudo apt-get install php5-gd php5-curl libssh2-php
+  163  sudo nano /etc/php5/apache2/php.ini
+  164  sudo a2enmod rewrite
+  165  sudo nano /etc/apache2/sites-enabled/000-default.conf
+  166  wget http://ftp.drupal.org/files/projects/drupal-7.43.tar
+  167  wget http://ftp.drupal.org/files/projects/drupal-7.43.tar.gz
+  168  tar xzvf drupal*
+  169  history
