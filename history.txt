@@ -1,0 +1,111 @@
+ 1  sudo apt-get install apache2
+    2  sudo apt-get install mysql
+    3  sudo apt-get install mysql-server
+    4  mysql -u root -p
+    5  sudo apt-get install git
+    6  sudo apt-get install update
+    7  sudo alt
+    8  sudo apt-get install libapache2-mod-php5 php5 php5-mcrypt
+    9  tree
+   10  cd
+   11  cat /etc/apache2/sites-available/000-default.conf
+   12  sudo apt-get install vim
+   13  cat /etc/apache2/sites-available/000-default.conf
+   14  sudo cat /etc/apache2/sites-available/000-default.conf
+   15  cat > /etc/apache2/sites-available/000-default.conf
+   16  cat> /etc/apache2/sites-available/000-default.conf
+   17  nano /etc/apache2/sites-available/000-default.conf
+   18  nano /etc/apache2/sites-available/default-ssl.conf
+   19  sudo nano /etc/apache2/mods-enabled/dir.conf
+   20  sudo service apache2 restart
+   21  nano /etc/apache2/sites-available/default-ssl.conf
+   22  nano /etc/apache2/sites-available/000-default.conf
+   23  sudo nano /etc/apache2/mods-enabled/dir.conf
+   24  apt-cache search php5-
+   25  sudo apt-get install php mysql
+   26  sudo apt-get install php5-mysql
+   27  sudo nano /var/www/html/info.php
+   28  /etc/php5/apache2/php.ini
+   29  sudo /etc/php5/apache2/php.ini
+   30  nano /etc/php5/apache2/php.ini
+   31  lknsalhfdas
+   32  kjlkas
+   33  lks
+   34  sudo nano  /var/www/html/info.php
+   35  sudo apt-get install update-
+   36  sudo apt-get install update
+   37  sudo reboot now
+   38  sudo apt-get install ssh
+   39  sudo apt-get install update
+   40  sudo apt-get install tree
+   41  tree
+   42  ip -4 addr
+   43  cd /var/www/html/index.html
+   44  nano /var/www/html/index.html
+   45  cd /etc/init.d/
+   46  tree
+   47  cd
+   48  cd /etc/init.d/apache2
+   49  cd /etc/init.d
+   50  tree
+   51  cd /apache2
+   52  cd
+   53  shutdown -r now
+   54  cd /etc/init.d/
+   55  tree
+   56  cd
+   57  cd /etc/init.d/
+   58  cd /etc/init.d/apache2
+   59  /etc/init.d/apache2
+   60  /etc/init.d/apache2/restart
+   61  /etc/init.d/apache2
+   62  restart
+   63  sudo apt-get install upstartttt
+   64  sudo apt-get install upstart
+   65  restart
+   66  /etc/init.d/apache2/restart
+   67  /etc/init.d/apache2/help
+   68  help
+   69  cd
+   70  cd  /etc/init.d/
+   71  apache2
+   72  sudo apache2 reboot
+   73  sudo reboot apache2
+   74  shutdow -h now
+   75  sudo shutdow -h now
+   76  sudo shutdown -h now
+   77  sudo mkdir history
+   78  cd history/
+   79  echo "history" > history.txt
+   80  sudo echo "history" > history.txt
+   81  sudo echo "proyecto1" > history.txt
+   82  touch "proyecto1" > history.txt
+   83  sudo touch "proyecto1" > history.txt
+   84  sudo nano "proyecto1" > history.txt
+   85  sudo touch "proyecto1" > history.txt
+   86  sudo echo "proyecto1" > history.txt
+   87  cd
+   88  history
+   89  tree
+   90  cd history/
+   91  pwd
+   92  sudo cat history.txt
+   93  echo "proyecto1" >> Readme.md
+   94  sudo echo "proyecto1" >> Readme.md
+   95  cd
+   96  echo "proyecto1" >> history.txt
+   97  git init
+   98  git commit -m "proyecto1"
+   99  cat history.txt
+  100  git remote add origin https://github.com/alegonsa1987/proyecto.git
+  101  git push -u origin master
+  102  git remote add origin https://github.com/alegonsa1987/proyecto.git
+  103  echo "proyecto1" >> history.txt
+  104  git init
+  105  git commit -m "proyecto1"
+  106  git commit -m "history.txt"
+  107  cat history.txt
+  108  cat > history.txt
+  109  cat  history.txt
+  110  history
+proyecto1
